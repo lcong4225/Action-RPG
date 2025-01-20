@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T9/6F0PYJAJJ28GULPYXN7RTW.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Blueprints/BP_Dummy.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Blueprints/BPI_Assasination.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/1X/9PJZJMFNQ5W15H6KQVK1ZV.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/8S/9ZNV2RPWVALDLXAWI8VYA0.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9F/H6APXQ85D5LOJXRSQAVJBT.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EO/7WLDNUJS4ZAHMHJYAWYDTX.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/UI/WB_AssasinatePrompt.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/RPG_Character/Animations/Lean/Lean.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"D:/CL/UE5 Projects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset"
+			]
+		}
+	]
+}
